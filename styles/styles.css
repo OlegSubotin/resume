@@ -10,9 +10,9 @@
   --color-background: #191d2b;
   --color-text: #ffffff;
   --color-green: #27ae60;
-  --color-grey:#454e56;
-  --color-blue:#b2becd;
-  --box-shadow: 0 3px 15px rgba(0,0,0,.3);
+  --color-grey: #454e56;
+  --color-blue: #b2becd;
+  --box-shadow: 0 3px 15px rgba(0, 0, 0, .3);
 }
 
 body {
