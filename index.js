@@ -1,6 +1,4 @@
-// const container = document.querySelector('.main-content');
 const sectionEls = document.querySelectorAll('.section');
-// const btnList = document.querySelector('.controls');
 const btnItems = document.querySelectorAll('.control');
 
 function changeSections() {
